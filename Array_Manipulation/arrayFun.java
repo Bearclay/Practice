@@ -12,8 +12,8 @@ public class arrayFun {
 		hand[4] = 123;
 		
 		sortArray(hand);
-		for (int i = 0; i < hand.length; i++) {
-			System.out.println(hand[i]);
+		for (int n = 0; n < hand.length; n++) {
+			System.out.println(hand[n]);
 		}
 	}
 
